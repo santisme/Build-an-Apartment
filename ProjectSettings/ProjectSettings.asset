@@ -10,7 +10,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Udacity
+  companyName: Santiago Sanchez Merino
   productName: Build an Apartment
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -144,7 +144,7 @@ PlayerSettings:
     Android: com.Udacity.BuildAnApartment
     Standalone: com.Udacity.BuildAnApartment
     Tizen: com.MattSonic.Course2Project
-    iOS: com.Udacity.BuildAnApartment
+    iOS: com.SantiagoSanchezMerino.BuildAnApartment
     tvOS: com.MattSonic.Course2Project
   buildNumber:
     iOS: 0
@@ -215,7 +215,7 @@ PlayerSettings:
   metalEditorSupport: 0
   metalAPIValidation: 1
   iOSRenderExtraFrameOnPause: 1
-  appleDeveloperTeamID: 
+  appleDeveloperTeamID: Santiago Sanchez Merino (Personal Team)
   iOSManualSigningProvisioningProfileID: 
   tvOSManualSigningProvisioningProfileID: 
   appleEnableAutomaticSigning: 0
